@@ -42,7 +42,7 @@ For any questions or feedback, feel free to contact me at [davilna889@gmail.com]
 
 Screenshots:
 
-Tela princiapl:
+Home page:
 ![Tela principal](images/Screenshot1.png)
 
 Scrape Selected Categories:
