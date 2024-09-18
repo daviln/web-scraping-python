@@ -60,8 +60,6 @@ Removing from favorites:
 Help page (instructions):
 ![Help](images/Screenshot6.png)
 
-File and other options:
-![File](images/Screenshot4.png)
 
 
 Português:
@@ -74,13 +72,13 @@ O projeto foi desenvolvido durante meu tempo na faculdade nos EUA, combinando ha
 
 Funcionalidades
 
-•	Interface GUI: Interface fácil de usar, construída com Tkinter, permitindo que os usuários interajam com os resultados do scraping visualmente.
-•	Web Scraping: Faz automaticamente o scraping dos dados dos livros (título, preço e classificação) do site “Books to Scrape”.
-•	Seleção de Categorias: Os usuários podem selecionar uma ou mais categorias de livros para fazer o scraping.
-•	Opções de Ordenação: Ordene os livros coletados por preço (ascendente ou descendente), título (A-Z ou Z-A) e classificação (de menor para maior ou de maior para menor).
-•	Favoritos: Permite que os usuários selecionem livros e os adicionem a uma lista de favoritos, com a capacidade de visualizar e remover favoritos.
-•	Exportar para Excel: Os dados coletados podem ser exportados para um arquivo Excel.
-•	Tratamento de Erros: Inclui mensagens de erro para casos como nenhuma categoria selecionada ou nenhum livro selecionado ao adicionar aos favoritos.
+	•	Interface GUI: Interface fácil de usar, construída com Tkinter, permitindo que os usuários interajam com os resultados do scraping visualmente.
+	•	Web Scraping: Faz automaticamente o scraping dos dados dos livros (título, preço e classificação) do site “Books to Scrape”.
+	•	Seleção de Categorias: Os usuários podem selecionar uma ou mais categorias de livros para fazer o scraping.
+	•	Opções de Ordenação: Ordene os livros coletados por preço (ascendente ou descendente), título (A-Z ou Z-A) e classificação (de menor para maior ou de maior para menor).
+	•	Favoritos: Permite que os usuários selecionem livros e os adicionem a uma lista de favoritos, com a capacidade de visualizar e remover favoritos.
+	•	Exportar para Excel: Os dados coletados podem ser exportados para um arquivo Excel.
+	•	Tratamento de Erros: Inclui mensagens de erro para casos como nenhuma categoria selecionada ou nenhum livro selecionado ao adicionar aos favoritos.
 
 Como Funciona
 
@@ -93,11 +91,11 @@ Obs: Após executar o código, você pode pressionar o botão ‘help’ e ver a
 
 Tecnologias Utilizadas
 
-•	Python: A linguagem de programação principal utilizada no projeto.
-•	Tkinter: Para a construção da interface gráfica.
-•	Requests: Para lidar com requisições HTTP e buscar dados da página web.
-•	BeautifulSoup: Para analisar e extrair o conteúdo HTML.
-•	Pandas: Para manipulação de dados e exportação para um arquivo Excel.
+	•	Python: A linguagem de programação principal utilizada no projeto.
+	•	Tkinter: Para a construção da interface gráfica.
+	•	Requests: Para lidar com requisições HTTP e buscar dados da página web.
+	•	BeautifulSoup: Para analisar e extrair o conteúdo HTML.
+	•	Pandas: Para manipulação de dados e exportação para um arquivo Excel.
 
 Contato
 
