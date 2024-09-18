@@ -42,12 +42,25 @@ For any questions or feedback, feel free to contact me at [davilna889@gmail.com]
 
 Screenshots:
 
+Tela princiapl:
 ![Tela principal](images/Screenshot1.png)
+
+Scrape Selected Categories:
 ![Scrape](images/Screenshot5.png)
+
+Add to favorites:
 ![Add favorites](images/Screenshot2.png)
+
+View favorites window:
 ![View favorites](images/Screenshot7.png)
+
+Removing from favorites:
 ![Remove favorites](images/Screenshot3.png)
-![Help](images/Screenshot2.png)
+
+Help page (instructions):
+![Help](images/Screenshot6.png)
+
+File and other options:
 ![File](images/Screenshot4.png)
 
 
